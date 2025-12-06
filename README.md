@@ -1,0 +1,2 @@
+Este trabalho apresenta o desenvolvimento da primeira etapa de um compilador: o Analisador Léxico (Scanner). O objetivo deste projeto foi implementar um software capaz de ler códigos-fonte escritos em uma linguagem baseada em Portugol, identificar os elementos básicos (tokens) e gerar uma tabela de símbolos, conforme as especificações do Projeto A da disciplina de Compiladores.
+A implementação foi realizada na linguagem C++, escolhida por sua eficiência na manipulação de caracteres e arquivos, atendendo aos requisitos de linguagem permitidos para o trabalho.
